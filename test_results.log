@@ -1,0 +1,678 @@
+2024-12-26 16:37:54,534 - TestProgram - INFO - Starting test program...
+2024-12-26 16:37:54,534 - TestProgram - INFO - Using device: cuda
+2024-12-26 16:37:54,534 - TestProgram - INFO - Creating data loader...
+2024-12-26 16:37:58,123 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 16:37:58,826 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 16:37:58,837 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 16:37:58,837 - OCLDataset - INFO - Precomputing text embeddings for top categories...
+2024-12-26 16:37:58,874 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 16:39:16,441 - TestProgram - INFO - Starting test program...
+2024-12-26 16:39:16,442 - TestProgram - INFO - Using device: cuda
+2024-12-26 16:39:16,442 - TestProgram - INFO - Creating data loader...
+2024-12-26 16:39:36,354 - TestProgram - INFO - Starting test program...
+2024-12-26 16:39:36,354 - TestProgram - INFO - Using device: cuda
+2024-12-26 16:39:36,354 - TestProgram - INFO - Creating data loader...
+2024-12-26 16:39:39,496 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 16:39:40,104 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 16:39:40,113 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 16:39:40,113 - OCLDataset - INFO - Precomputing text embeddings for top categories...
+2024-12-26 16:39:40,150 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 16:43:01,136 - TestProgram - INFO - Starting test program...
+2024-12-26 16:43:01,136 - TestProgram - INFO - Using device: cuda
+2024-12-26 16:43:01,136 - TestProgram - INFO - Creating data loader...
+2024-12-26 16:43:04,837 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 16:43:05,590 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 16:43:05,602 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 16:43:05,602 - OCLDataset - INFO - Precomputing text embeddings for top categories...
+2024-12-26 16:43:05,644 - TestProgram - ERROR - Test failed: name 'logger' is not defined
+2024-12-26 16:50:30,076 - TestProgram - INFO - Starting test program...
+2024-12-26 16:50:30,076 - TestProgram - INFO - Using device: cuda
+2024-12-26 16:50:30,076 - TestProgram - INFO - Creating data loader...
+2024-12-26 16:50:34,343 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 16:50:35,018 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 16:50:35,028 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 16:50:35,028 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 16:50:35,104 - TestProgram - ERROR - Test failed: name 'logger' is not defined
+2024-12-26 16:53:21,750 - TestProgram - INFO - Starting test program...
+2024-12-26 16:53:21,750 - TestProgram - INFO - Using device: cuda
+2024-12-26 16:53:21,750 - TestProgram - INFO - Creating data loader...
+2024-12-26 16:53:25,503 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 16:53:26,239 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 16:53:26,248 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 16:53:26,248 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 16:53:26,290 - TestProgram - ERROR - Test failed: name 'logger' is not defined
+2024-12-26 16:53:51,945 - TestProgram - INFO - Starting test program...
+2024-12-26 16:53:51,946 - TestProgram - INFO - Using device: cuda
+2024-12-26 16:53:51,946 - TestProgram - INFO - Creating data loader...
+2024-12-26 16:53:56,254 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 16:53:57,074 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 16:53:57,087 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 16:53:57,087 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 16:53:57,134 - TestProgram - ERROR - Test failed: name 'logger' is not defined
+2024-12-26 16:59:35,426 - TestProgram - INFO - Starting test program...
+2024-12-26 16:59:35,426 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 16:59:35,426 - TestProgram - INFO - Creating data loader...
+2024-12-26 16:59:40,215 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 16:59:40,872 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 16:59:40,882 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 16:59:40,882 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 16:59:41,014 - TestProgram - ERROR - Test failed: name 'logger' is not defined
+2024-12-26 16:59:41,014 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 17:01:03,827 - TestProgram - INFO - Starting test program...
+2024-12-26 17:01:03,827 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:01:03,827 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:01:07,992 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:01:08,603 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:01:08,613 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:01:08,613 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 17:01:08,649 - TestProgram - ERROR - Failed to create data loader: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:01:08,650 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:01:08,650 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 17:04:45,402 - TestProgram - INFO - Starting test program...
+2024-12-26 17:04:45,402 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:04:45,402 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:04:49,866 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:04:50,562 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:04:50,573 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:04:50,573 - OCLDataset - INFO - Precomputing text embeddings for top categories...
+2024-12-26 17:04:50,735 - TestProgram - ERROR - Failed to create data loader: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:04:50,735 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:04:50,735 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 17:05:39,426 - TestProgram - INFO - Starting test program...
+2024-12-26 17:05:39,426 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:05:39,426 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:05:43,130 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:05:43,815 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:05:43,826 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:05:43,826 - OCLDataset - INFO - Precomputing text embeddings for top categories...
+2024-12-26 17:05:43,826 - OCLDataset - INFO - Text inputs: ['a photo of a car', 'a photo of a broccoli', 'a photo of a boat', 'a photo of a horse', 'a photo of a dog', 'a photo of a banana', 'a photo of a truck', 'a photo of a motorcycle', 'a photo of a zebra', 'a photo of a sheep']
+2024-12-26 17:05:43,865 - TestProgram - ERROR - Failed to create data loader: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:05:43,865 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:05:43,865 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 17:07:52,225 - TestProgram - INFO - Starting test program...
+2024-12-26 17:07:52,225 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:07:52,225 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:07:55,184 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:07:55,776 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:07:55,785 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:07:55,785 - OCLDataset - INFO - Precomputing text embeddings for top categories...
+2024-12-26 17:07:55,785 - OCLDataset - INFO - Text inputs: ['a photo of a car', 'a photo of a broccoli', 'a photo of a boat', 'a photo of a horse', 'a photo of a dog', 'a photo of a banana', 'a photo of a truck', 'a photo of a motorcycle', 'a photo of a zebra', 'a photo of a sheep']
+2024-12-26 17:07:55,818 - TestProgram - ERROR - Failed to create data loader: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:07:55,819 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:07:55,819 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 17:10:54,789 - TestProgram - INFO - Starting test program...
+2024-12-26 17:10:54,789 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:10:54,789 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:10:58,639 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:10:59,266 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:10:59,276 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:10:59,276 - OCLDataset - INFO - Precomputing text embeddings for top categories...
+2024-12-26 17:10:59,276 - OCLDataset - INFO - Text inputs: ['a photo of a car', 'a photo of a broccoli', 'a photo of a boat', 'a photo of a horse', 'a photo of a dog', 'a photo of a banana', 'a photo of a truck', 'a photo of a motorcycle', 'a photo of a zebra', 'a photo of a sheep']
+2024-12-26 17:10:59,556 - TestProgram - ERROR - Failed to create data loader: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:10:59,556 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:10:59,556 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 17:14:46,379 - TestProgram - INFO - Starting test program...
+2024-12-26 17:14:46,379 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:14:46,379 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:14:50,690 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:14:51,290 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:14:51,299 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:14:51,299 - OCLDataset - INFO - Precomputing text embeddings for top categories...
+2024-12-26 17:14:51,299 - OCLDataset - INFO - Text inputs: ['a photo of a car', 'a photo of a broccoli', 'a photo of a boat', 'a photo of a horse', 'a photo of a dog', 'a photo of a banana', 'a photo of a truck', 'a photo of a motorcycle', 'a photo of a zebra', 'a photo of a sheep']
+2024-12-26 17:14:51,300 - OCLDataset - INFO - Using GPU: NVIDIA GeForce RTX 4090 with 23.55 GB memory
+2024-12-26 17:14:51,546 - TestProgram - ERROR - Failed to create data loader: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:14:51,546 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:14:51,547 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 17:16:12,417 - TestProgram - INFO - Starting test program...
+2024-12-26 17:16:12,417 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:16:12,417 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:16:16,349 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:16:16,958 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:16:16,967 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:16:16,967 - OCLDataset - INFO - Precomputing text embeddings for top categories...
+2024-12-26 17:16:16,967 - OCLDataset - INFO - Text inputs: ['a photo of a car', 'a photo of a broccoli', 'a photo of a boat', 'a photo of a horse', 'a photo of a dog', 'a photo of a banana', 'a photo of a truck', 'a photo of a motorcycle', 'a photo of a zebra', 'a photo of a sheep']
+2024-12-26 17:16:16,967 - OCLDataset - INFO - Using GPU: NVIDIA GeForce RTX 4090 (GPU 0) with 23.55 GB memory
+2024-12-26 17:16:17,044 - TestProgram - ERROR - Failed to create data loader: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:16:17,044 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:16:17,044 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 17:16:44,247 - TestProgram - INFO - Starting test program...
+2024-12-26 17:16:44,247 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:16:44,247 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:16:48,382 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:16:49,063 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:16:49,073 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:16:49,073 - OCLDataset - INFO - Precomputing text embeddings for top categories...
+2024-12-26 17:16:49,073 - OCLDataset - INFO - Text inputs: ['a photo of a car', 'a photo of a broccoli', 'a photo of a boat', 'a photo of a horse', 'a photo of a dog', 'a photo of a banana', 'a photo of a truck', 'a photo of a motorcycle', 'a photo of a zebra', 'a photo of a sheep']
+2024-12-26 17:16:49,121 - TestProgram - ERROR - Failed to create data loader: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:16:49,121 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:16:49,121 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 17:17:40,209 - TestProgram - INFO - Starting test program...
+2024-12-26 17:17:40,209 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:17:40,209 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:17:43,828 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:17:44,433 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:17:44,441 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:17:44,441 - OCLDataset - INFO - Precomputing text embeddings for top categories...
+2024-12-26 17:17:44,441 - OCLDataset - INFO - Text inputs: ['a photo of a car', 'a photo of a broccoli', 'a photo of a boat', 'a photo of a horse', 'a photo of a dog', 'a photo of a banana', 'a photo of a truck', 'a photo of a motorcycle', 'a photo of a zebra', 'a photo of a sheep']
+2024-12-26 17:17:44,477 - TestProgram - ERROR - Failed to create data loader: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:17:44,477 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:17:44,477 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 17:18:02,994 - TestProgram - INFO - Starting test program...
+2024-12-26 17:18:02,994 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:18:02,994 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:18:06,642 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:18:07,288 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:18:07,298 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:18:07,298 - OCLDataset - INFO - Precomputing text embeddings for top categories...
+2024-12-26 17:18:07,299 - OCLDataset - INFO - Text inputs: ['a photo of a car', 'a photo of a broccoli', 'a photo of a boat', 'a photo of a horse', 'a photo of a dog', 'a photo of a banana', 'a photo of a truck', 'a photo of a motorcycle', 'a photo of a zebra', 'a photo of a sheep']
+2024-12-26 17:18:07,695 - TestProgram - ERROR - Failed to create data loader: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:18:07,695 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:18:07,696 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 17:31:05,275 - TestProgram - INFO - Starting test program...
+2024-12-26 17:31:05,324 - TestProgram - ERROR - Test failed: Unrecognized CachingAllocator option: roundup_power2
+2024-12-26 17:31:05,325 - TestProgram - INFO - Final GPU memory: 0.00MB
+2024-12-26 17:31:31,562 - TestProgram - INFO - Starting test program...
+2024-12-26 17:31:31,602 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:31:31,603 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:31:31,603 - OCLModel - INFO - Initializing SigLIP model google/siglip-base-patch16-224 on cuda
+2024-12-26 17:32:01,855 - OCLModel - ERROR - Failed to initialize model: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like google/siglip-base-patch16-224 is not the path to a directory containing a file named preprocessor_config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+2024-12-26 17:32:01,856 - TestProgram - ERROR - Failed to create data loader: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like google/siglip-base-patch16-224 is not the path to a directory containing a file named preprocessor_config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+2024-12-26 17:32:01,856 - TestProgram - ERROR - Test failed: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like google/siglip-base-patch16-224 is not the path to a directory containing a file named preprocessor_config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+2024-12-26 17:32:01,856 - TestProgram - INFO - Final GPU memory: 0.00MB
+2024-12-26 17:32:38,624 - TestProgram - INFO - Starting test program...
+2024-12-26 17:32:38,664 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:32:38,664 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:32:38,664 - OCLModel - INFO - Initializing SigLIP model google/siglip-base-patch16-224 on cuda
+2024-12-26 17:33:08,848 - OCLModel - ERROR - Failed to initialize model: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like google/siglip-base-patch16-224 is not the path to a directory containing a file named preprocessor_config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+2024-12-26 17:33:08,848 - TestProgram - ERROR - Failed to create data loader: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like google/siglip-base-patch16-224 is not the path to a directory containing a file named preprocessor_config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+2024-12-26 17:33:08,848 - TestProgram - ERROR - Test failed: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like google/siglip-base-patch16-224 is not the path to a directory containing a file named preprocessor_config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+2024-12-26 17:33:08,848 - TestProgram - INFO - Final GPU memory: 0.00MB
+2024-12-26 17:34:51,973 - TestProgram - INFO - Starting test program...
+2024-12-26 17:34:52,029 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:34:52,029 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:34:52,029 - OCLModel - INFO - Initializing SigLIP model google/siglip-base-patch16-224 on cuda
+2024-12-26 17:34:57,350 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:34:58,138 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:34:58,148 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:34:58,148 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 17:34:58,663 - OCLDataset - INFO - Categories: car, broccoli, boat, horse, dog, banana, truck, motorcycle, zebra, sheep
+2024-12-26 17:34:58,663 - OCLDataset - INFO - Text features shape: torch.Size([10, 768])
+2024-12-26 17:34:58,663 - TestProgram - INFO - Created loader with 346 batches
+2024-12-26 17:34:58,664 - TestProgram - INFO - Initializing model...
+2024-12-26 17:34:58,664 - OCLModel - INFO - Initializing SigLIP model google/siglip-base-patch16-224 on cuda
+2024-12-26 17:35:04,039 - TestProgram - INFO - Model initialized successfully
+2024-12-26 17:35:04,039 - TestProgram - INFO - Starting evaluation...
+2024-12-26 17:35:04,039 - TestProgram - ERROR - Test failed: 'OCLDataset' object has no attribute 'attr_text_features'
+2024-12-26 17:35:04,039 - TestProgram - INFO - Final GPU memory: 1559.24MB
+2024-12-26 17:38:32,430 - TestProgram - INFO - Starting test program...
+2024-12-26 17:38:32,474 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:38:32,474 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:38:32,474 - OCLModel - INFO - Initializing SigLIP model google/siglip-base-patch16-224 on cuda
+2024-12-26 17:38:35,702 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:38:36,404 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:38:36,414 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:38:36,414 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 17:38:37,103 - OCLDataset - INFO - Precomputed feature shapes:
+2024-12-26 17:38:37,103 - OCLDataset - INFO -   Categories: torch.Size([10, 768])
+2024-12-26 17:38:37,103 - OCLDataset - INFO -   Attributes: torch.Size([114, 768])
+2024-12-26 17:38:37,103 - OCLDataset - INFO -   Affordances: torch.Size([170, 768])
+2024-12-26 17:38:37,103 - TestProgram - INFO - Created loader with 346 batches
+2024-12-26 17:38:37,103 - TestProgram - INFO - Initializing model...
+2024-12-26 17:38:37,103 - OCLModel - INFO - Initializing SigLIP model google/siglip-base-patch16-224 on cuda
+2024-12-26 17:38:39,394 - TestProgram - INFO - Model initialized successfully
+2024-12-26 17:38:39,394 - TestProgram - INFO - Starting evaluation...
+2024-12-26 17:38:46,755 - OCLModel - INFO - Processed 50/346 batches. Running top-1: 0.1483, top-5: 0.6833, top-10: 1.0000
+2024-12-26 17:38:52,795 - OCLModel - INFO - Processed 100/346 batches. Running top-1: 0.1558, top-5: 0.6858, top-10: 1.0000
+2024-12-26 17:38:58,790 - OCLModel - INFO - Processed 150/346 batches. Running top-1: 0.1517, top-5: 0.6789, top-10: 1.0000
+2024-12-26 17:39:03,738 - OCLModel - INFO - Processed 200/346 batches. Running top-1: 0.1546, top-5: 0.6863, top-10: 1.0000
+2024-12-26 17:39:10,105 - OCLModel - INFO - Processed 250/346 batches. Running top-1: 0.1533, top-5: 0.6840, top-10: 1.0000
+2024-12-26 17:39:17,970 - OCLModel - INFO - Processed 300/346 batches. Running top-1: 0.1558, top-5: 0.6739, top-10: 1.0000
+2024-12-26 17:39:24,750 - OCLModel - INFO - Evaluation Results:
+2024-12-26 17:39:24,751 - OCLModel - INFO -   Total samples processed: 4151
+2024-12-26 17:39:24,751 - OCLModel - INFO -   Top-1 Accuracy: 0.1665
+2024-12-26 17:39:24,751 - OCLModel - INFO -   Top-5 Accuracy: 0.6859
+2024-12-26 17:39:24,751 - OCLModel - INFO -   Top-10 Accuracy: 1.0000
+2024-12-26 17:39:24,751 - OCLModel - INFO -   Attribute mAP: 0.1054
+2024-12-26 17:39:24,751 - OCLModel - INFO -   Affordance mAP: 0.3089
+2024-12-26 17:39:24,751 - TestProgram - INFO - Test Results:
+2024-12-26 17:39:24,751 - TestProgram - INFO - top1_accuracy: 0.1665
+2024-12-26 17:39:24,751 - TestProgram - INFO - top5_accuracy: 0.6859
+2024-12-26 17:39:24,751 - TestProgram - INFO - top10_accuracy: 1.0000
+2024-12-26 17:39:24,751 - TestProgram - INFO - attribute_map: 0.1054
+2024-12-26 17:39:24,751 - TestProgram - INFO - affordance_map: 0.3089
+2024-12-26 17:39:24,865 - TestProgram - INFO - Final GPU memory: 1559.21MB
+2024-12-26 17:48:33,846 - TestProgram - INFO - Starting test program...
+2024-12-26 17:48:33,911 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:48:33,911 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:48:33,911 - OCLModel - INFO - Initializing SigLIP model google/siglip-base-patch16-224 on cuda
+2024-12-26 17:48:38,007 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:48:38,782 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:48:38,795 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:48:38,795 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 17:48:39,182 - OCLDataset - INFO - Precomputed feature shapes:
+2024-12-26 17:48:39,182 - OCLDataset - INFO -   Categories: torch.Size([10, 768])
+2024-12-26 17:48:39,182 - OCLDataset - INFO -   Attributes: torch.Size([114, 768])
+2024-12-26 17:48:39,182 - OCLDataset - INFO -   Affordances: torch.Size([170, 768])
+2024-12-26 17:48:39,183 - TestProgram - INFO - Created loader with 346 batches
+2024-12-26 17:48:39,183 - TestProgram - INFO - Initializing model...
+2024-12-26 17:48:39,183 - OCLModel - INFO - Initializing SigLIP model google/siglip-base-patch16-224 on cuda
+2024-12-26 17:48:44,628 - TestProgram - INFO - Model initialized successfully
+2024-12-26 17:48:44,628 - TestProgram - INFO - Starting evaluation...
+2024-12-26 17:48:47,035 - OCLModel - INFO - Processed 50/346 batches. Running top-1: 0.1483, top-5: 0.6833, top-10: 1.0000
+2024-12-26 17:48:48,632 - OCLModel - INFO - Processed 100/346 batches. Running top-1: 0.1558, top-5: 0.6858, top-10: 1.0000
+2024-12-26 17:48:50,318 - OCLModel - INFO - Processed 150/346 batches. Running top-1: 0.1517, top-5: 0.6789, top-10: 1.0000
+2024-12-26 17:48:52,168 - OCLModel - INFO - Processed 200/346 batches. Running top-1: 0.1546, top-5: 0.6863, top-10: 1.0000
+2024-12-26 17:48:54,998 - OCLModel - INFO - Processed 250/346 batches. Running top-1: 0.1533, top-5: 0.6840, top-10: 1.0000
+2024-12-26 17:48:56,754 - OCLModel - INFO - Processed 300/346 batches. Running top-1: 0.1558, top-5: 0.6739, top-10: 1.0000
+2024-12-26 17:49:00,328 - OCLModel - INFO - Evaluation Results:
+2024-12-26 17:49:00,328 - OCLModel - INFO -   Total samples processed: 4151
+2024-12-26 17:49:00,328 - OCLModel - INFO -   Top-1 Accuracy: 0.1665
+2024-12-26 17:49:00,328 - OCLModel - INFO -   Top-5 Accuracy: 0.6859
+2024-12-26 17:49:00,328 - OCLModel - INFO -   Top-10 Accuracy: 1.0000
+2024-12-26 17:49:00,329 - OCLModel - INFO -   Attribute mAP: 0.0987
+2024-12-26 17:49:00,329 - OCLModel - INFO -   Affordance mAP: 0.3085
+2024-12-26 17:49:00,329 - TestProgram - INFO - Test Results:
+2024-12-26 17:49:00,329 - TestProgram - INFO - top1_accuracy: 0.1665
+2024-12-26 17:49:00,329 - TestProgram - INFO - top5_accuracy: 0.6859
+2024-12-26 17:49:00,329 - TestProgram - INFO - top10_accuracy: 1.0000
+2024-12-26 17:49:00,329 - TestProgram - INFO - attribute_map: 0.0987
+2024-12-26 17:49:00,329 - TestProgram - INFO - affordance_map: 0.3085
+2024-12-26 17:49:00,414 - TestProgram - INFO - Final GPU memory: 1562.08MB
+2024-12-26 17:50:06,530 - TestProgram - INFO - Starting test program...
+2024-12-26 17:50:06,530 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 17:50:06,530 - TestProgram - INFO - Creating data loader...
+2024-12-26 17:50:10,855 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 17:50:11,504 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 17:50:11,514 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 17:50:11,515 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 17:50:11,762 - TestProgram - ERROR - Failed to create data loader: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:50:11,762 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 17:50:11,762 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 18:25:53,463 - TestProgram - INFO - Starting test program...
+2024-12-26 18:25:53,463 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 18:25:53,463 - TestProgram - INFO - Creating data loader...
+2024-12-26 18:25:57,191 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 18:25:57,823 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 18:25:57,834 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 18:25:57,834 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 18:25:57,887 - TestProgram - ERROR - Failed to create data loader: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 18:25:57,887 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 18:25:57,887 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 18:39:40,848 - TestProgram - INFO - Starting test program...
+2024-12-26 18:39:40,848 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 18:39:40,848 - TestProgram - INFO - Creating data loader...
+2024-12-26 18:39:44,643 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 18:39:45,511 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 18:39:45,524 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 18:39:45,524 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 18:39:45,760 - TestProgram - ERROR - Failed to create data loader: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 18:39:45,760 - TestProgram - ERROR - Test failed: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-12-26 18:39:45,761 - TestProgram - INFO - Final GPU memory: 342.82MB
+2024-12-26 18:41:17,146 - TestProgram - INFO - Starting test program...
+2024-12-26 18:41:17,200 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 18:41:17,201 - TestProgram - INFO - Creating data loader...
+2024-12-26 18:41:17,201 - OCLModel - INFO - Initializing SigLIP model google/siglip-base-patch16-224 on cuda
+2024-12-26 18:41:20,808 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 18:41:21,605 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 18:41:21,615 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 18:41:21,615 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 18:41:21,793 - OCLDataset - INFO - Precomputed feature shapes:
+2024-12-26 18:41:21,793 - OCLDataset - INFO -   Categories: torch.Size([10, 768])
+2024-12-26 18:41:21,793 - OCLDataset - INFO -   Attributes: torch.Size([114, 768])
+2024-12-26 18:41:21,793 - OCLDataset - INFO -   Affordances: torch.Size([170, 768])
+2024-12-26 18:41:21,794 - TestProgram - INFO - Created loader with 346 batches
+2024-12-26 18:41:21,794 - TestProgram - INFO - Initializing model...
+2024-12-26 18:41:21,794 - OCLModel - INFO - Initializing SigLIP model google/siglip-base-patch16-224 on cuda
+2024-12-26 18:41:23,980 - TestProgram - INFO - Model initialized successfully
+2024-12-26 18:41:23,980 - TestProgram - INFO - Starting evaluation...
+2024-12-26 18:41:26,377 - OCLModel - INFO - Processed 50/346 batches. Running top-1: 0.1483, top-5: 0.6833, top-10: 1.0000
+2024-12-26 18:41:28,229 - OCLModel - INFO - Processed 100/346 batches. Running top-1: 0.1558, top-5: 0.6858, top-10: 1.0000
+2024-12-26 18:41:30,076 - OCLModel - INFO - Processed 150/346 batches. Running top-1: 0.1517, top-5: 0.6789, top-10: 1.0000
+2024-12-26 18:41:31,503 - OCLModel - INFO - Processed 200/346 batches. Running top-1: 0.1546, top-5: 0.6863, top-10: 1.0000
+2024-12-26 18:41:33,458 - OCLModel - INFO - Processed 250/346 batches. Running top-1: 0.1533, top-5: 0.6840, top-10: 1.0000
+2024-12-26 18:41:35,325 - OCLModel - INFO - Processed 300/346 batches. Running top-1: 0.1558, top-5: 0.6739, top-10: 1.0000
+2024-12-26 18:41:39,744 - OCLModel - INFO - Evaluation Results:
+2024-12-26 18:41:39,744 - OCLModel - INFO -   Total samples processed: 4151
+2024-12-26 18:41:39,744 - OCLModel - INFO -   Top-1 Accuracy: 0.1665
+2024-12-26 18:41:39,744 - OCLModel - INFO -   Top-5 Accuracy: 0.6859
+2024-12-26 18:41:39,744 - OCLModel - INFO -   Top-10 Accuracy: 1.0000
+2024-12-26 18:41:39,744 - OCLModel - INFO -   Attribute mAP: 0.0987
+2024-12-26 18:41:39,744 - OCLModel - INFO -   Affordance mAP: 0.3085
+2024-12-26 18:41:39,744 - TestProgram - INFO - Test Results:
+2024-12-26 18:41:39,744 - TestProgram - INFO - top1_accuracy: 0.1665
+2024-12-26 18:41:39,744 - TestProgram - INFO - top5_accuracy: 0.6859
+2024-12-26 18:41:39,744 - TestProgram - INFO - top10_accuracy: 1.0000
+2024-12-26 18:41:39,745 - TestProgram - INFO - attribute_map: 0.0987
+2024-12-26 18:41:39,745 - TestProgram - INFO - affordance_map: 0.3085
+2024-12-26 18:41:39,748 - TestProgram - INFO - Final GPU memory: 1562.08MB
+2024-12-26 18:46:07,608 - TestProgram - INFO - Starting test program...
+2024-12-26 18:46:07,608 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 18:46:07,608 - TestProgram - INFO - Initializing model...
+2024-12-26 18:46:07,609 - OCLModel - INFO - Initializing CLIP model ViT-B/32 on cuda
+2024-12-26 18:46:10,532 - TestProgram - INFO - Model initialized successfully
+2024-12-26 18:46:10,533 - TestProgram - INFO - Creating data loader...
+2024-12-26 18:46:13,322 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 18:46:13,937 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 18:46:13,947 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 18:46:13,947 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 18:46:14,173 - OCLDataset - INFO - Precomputed feature shapes:
+2024-12-26 18:46:14,173 - OCLDataset - INFO -   Categories: torch.Size([10, 512])
+2024-12-26 18:46:14,173 - OCLDataset - INFO -   Attributes: torch.Size([114, 512])
+2024-12-26 18:46:14,173 - OCLDataset - INFO -   Affordances: torch.Size([170, 512])
+2024-12-26 18:46:14,173 - TestProgram - INFO - Created loader with 346 batches
+2024-12-26 18:46:14,173 - TestProgram - INFO - Starting evaluation...
+2024-12-26 18:46:16,567 - OCLModel - INFO - Processed 50/346 batches. Running top-1: 0.8150, top-5: 0.9917, top-10: 1.0000
+2024-12-26 18:46:18,270 - OCLModel - INFO - Processed 100/346 batches. Running top-1: 0.7850, top-5: 0.9933, top-10: 1.0000
+2024-12-26 18:46:19,878 - OCLModel - INFO - Processed 150/346 batches. Running top-1: 0.7894, top-5: 0.9911, top-10: 1.0000
+2024-12-26 18:46:21,005 - OCLModel - INFO - Processed 200/346 batches. Running top-1: 0.8033, top-5: 0.9917, top-10: 1.0000
+2024-12-26 18:46:22,580 - OCLModel - INFO - Processed 250/346 batches. Running top-1: 0.7923, top-5: 0.9897, top-10: 1.0000
+2024-12-26 18:46:24,392 - OCLModel - INFO - Processed 300/346 batches. Running top-1: 0.7808, top-5: 0.9878, top-10: 1.0000
+2024-12-26 18:46:28,338 - OCLModel - INFO - Evaluation Results:
+2024-12-26 18:46:28,339 - OCLModel - INFO -   Total samples processed: 4151
+2024-12-26 18:46:28,339 - OCLModel - INFO -   Top-1 Accuracy: 0.8020
+2024-12-26 18:46:28,339 - OCLModel - INFO -   Top-5 Accuracy: 0.9894
+2024-12-26 18:46:28,339 - OCLModel - INFO -   Top-10 Accuracy: 1.0000
+2024-12-26 18:46:28,339 - OCLModel - INFO -   Attribute mAP: 0.1565
+2024-12-26 18:46:28,339 - OCLModel - INFO -   Affordance mAP: 0.3275
+2024-12-26 18:46:28,339 - TestProgram - INFO - Test Results:
+2024-12-26 18:46:28,339 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 18:46:28,339 - TestProgram - INFO - Top-1 Accuracy: 0.8020
+2024-12-26 18:46:28,339 - TestProgram - INFO - Top-5 Accuracy: 0.9894
+2024-12-26 18:46:28,339 - TestProgram - INFO - Top-10 Accuracy: 1.0000
+2024-12-26 18:46:28,339 - TestProgram - INFO - Attribute mAP: 0.1565
+2024-12-26 18:46:28,339 - TestProgram - INFO - Affordance mAP: 0.3275
+2024-12-26 18:46:28,339 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 18:46:28,507 - TestProgram - INFO - Final GPU memory: 695.68MB
+2024-12-26 19:08:28,084 - TestProgram - INFO - Starting test program...
+2024-12-26 19:08:28,085 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 19:08:28,085 - TestProgram - INFO - Initializing model...
+2024-12-26 19:08:28,085 - OCLModel - INFO - Initializing CLIP model ViT-B/32 on cuda
+2024-12-26 19:08:33,486 - TestProgram - INFO - Model initialized successfully
+2024-12-26 19:08:33,486 - TestProgram - INFO - Creating data loader...
+2024-12-26 19:08:37,661 - TestProgram - ERROR - Failed to create data loader: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 23.55 GiB of which 4.88 MiB is free. Process 3661461 has 752.00 MiB memory in use. Process 3769095 has 22.01 GiB memory in use. Including non-PyTorch memory, this process has 752.00 MiB memory in use. Of the allocated memory 361.97 MiB is allocated by PyTorch, and 6.03 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+2024-12-26 19:08:37,661 - TestProgram - ERROR - Test failed: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 23.55 GiB of which 4.88 MiB is free. Process 3661461 has 752.00 MiB memory in use. Process 3769095 has 22.01 GiB memory in use. Including non-PyTorch memory, this process has 752.00 MiB memory in use. Of the allocated memory 361.97 MiB is allocated by PyTorch, and 6.03 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+2024-12-26 19:08:37,662 - TestProgram - INFO - Final GPU memory: 361.97MB
+2024-12-26 19:09:07,694 - TestProgram - INFO - Starting test program...
+2024-12-26 19:09:07,694 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 19:09:07,694 - TestProgram - INFO - Initializing model...
+2024-12-26 19:09:07,695 - OCLModel - INFO - Initializing CLIP model ViT-B/32 on cuda
+2024-12-26 19:09:12,259 - TestProgram - INFO - Model initialized successfully
+2024-12-26 19:09:12,260 - TestProgram - INFO - Creating data loader...
+2024-12-26 19:09:15,423 - TestProgram - ERROR - Failed to create data loader: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 23.55 GiB of which 4.88 MiB is free. Process 3661461 has 752.00 MiB memory in use. Process 3769095 has 22.01 GiB memory in use. Including non-PyTorch memory, this process has 752.00 MiB memory in use. Of the allocated memory 361.97 MiB is allocated by PyTorch, and 6.03 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+2024-12-26 19:09:15,423 - TestProgram - ERROR - Test failed: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 23.55 GiB of which 4.88 MiB is free. Process 3661461 has 752.00 MiB memory in use. Process 3769095 has 22.01 GiB memory in use. Including non-PyTorch memory, this process has 752.00 MiB memory in use. Of the allocated memory 361.97 MiB is allocated by PyTorch, and 6.03 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+2024-12-26 19:09:15,423 - TestProgram - INFO - Final GPU memory: 361.97MB
+2024-12-26 19:12:38,328 - TestProgram - INFO - Starting test program...
+2024-12-26 19:12:38,329 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 19:12:38,329 - TestProgram - INFO - Initializing model...
+2024-12-26 19:12:38,329 - OCLModel - INFO - Initializing CLIP model ViT-B/32 on cuda
+2024-12-26 19:12:42,662 - TestProgram - INFO - Model initialized successfully
+2024-12-26 19:12:42,662 - TestProgram - INFO - Creating data loader...
+2024-12-26 19:12:45,577 - TestProgram - ERROR - Failed to create data loader: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 23.55 GiB of which 4.88 MiB is free. Process 3661461 has 752.00 MiB memory in use. Process 3769095 has 22.01 GiB memory in use. Including non-PyTorch memory, this process has 752.00 MiB memory in use. Of the allocated memory 361.97 MiB is allocated by PyTorch, and 6.03 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+2024-12-26 19:12:45,577 - TestProgram - ERROR - Test failed: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 23.55 GiB of which 4.88 MiB is free. Process 3661461 has 752.00 MiB memory in use. Process 3769095 has 22.01 GiB memory in use. Including non-PyTorch memory, this process has 752.00 MiB memory in use. Of the allocated memory 361.97 MiB is allocated by PyTorch, and 6.03 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+2024-12-26 19:12:45,578 - TestProgram - INFO - Final GPU memory: 361.97MB
+2024-12-26 19:14:07,477 - TestProgram - INFO - Starting test program...
+2024-12-26 19:14:07,477 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 19:14:07,478 - TestProgram - INFO - Initializing model...
+2024-12-26 19:14:07,478 - OCLModel - INFO - Initializing CLIP model ViT-B/32 on cuda
+2024-12-26 19:14:11,057 - TestProgram - INFO - Model initialized successfully
+2024-12-26 19:14:11,057 - TestProgram - INFO - Creating data loader...
+2024-12-26 19:14:13,518 - TestProgram - ERROR - Failed to create data loader: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 23.55 GiB of which 4.88 MiB is free. Process 3661461 has 752.00 MiB memory in use. Process 3769095 has 22.01 GiB memory in use. Including non-PyTorch memory, this process has 752.00 MiB memory in use. Of the allocated memory 361.97 MiB is allocated by PyTorch, and 6.03 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+2024-12-26 19:14:13,518 - TestProgram - ERROR - Test failed: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 23.55 GiB of which 4.88 MiB is free. Process 3661461 has 752.00 MiB memory in use. Process 3769095 has 22.01 GiB memory in use. Including non-PyTorch memory, this process has 752.00 MiB memory in use. Of the allocated memory 361.97 MiB is allocated by PyTorch, and 6.03 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+2024-12-26 19:14:13,518 - TestProgram - INFO - Final GPU memory: 361.97MB
+2024-12-26 19:14:42,007 - TestProgram - INFO - Starting test program...
+2024-12-26 19:14:42,007 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 19:14:42,007 - TestProgram - INFO - Initializing model...
+2024-12-26 19:14:42,007 - OCLModel - INFO - Initializing CLIP model ViT-B/32 on cuda
+2024-12-26 19:14:44,970 - TestProgram - INFO - Model initialized successfully
+2024-12-26 19:14:44,970 - TestProgram - INFO - Creating data loader...
+2024-12-26 19:14:47,623 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 19:14:48,937 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 19:14:48,956 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 19:14:48,956 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 19:14:49,280 - OCLDataset - INFO - Precomputed feature shapes:
+2024-12-26 19:14:49,281 - OCLDataset - INFO -   Categories: torch.Size([10, 512])
+2024-12-26 19:14:49,281 - OCLDataset - INFO -   Attributes: torch.Size([114, 512])
+2024-12-26 19:14:49,281 - OCLDataset - INFO -   Affordances: torch.Size([170, 512])
+2024-12-26 19:14:49,281 - TestProgram - INFO - Created loader with 831 batches
+2024-12-26 19:14:49,281 - TestProgram - INFO - Starting evaluation...
+2024-12-26 19:15:05,188 - OCLModel - INFO - Processed 50/831 batches. Running top-1: 0.8520, top-5: 1.0000, top-10: 1.0000
+2024-12-26 19:15:21,822 - OCLModel - INFO - Processed 100/831 batches. Running top-1: 0.8220, top-5: 0.9940, top-10: 1.0000
+2024-12-26 19:15:36,476 - OCLModel - INFO - Processed 150/831 batches. Running top-1: 0.8053, top-5: 0.9933, top-10: 1.0000
+2024-12-26 19:15:51,660 - OCLModel - INFO - Processed 200/831 batches. Running top-1: 0.7940, top-5: 0.9940, top-10: 1.0000
+2024-12-26 19:16:05,962 - OCLModel - INFO - Processed 250/831 batches. Running top-1: 0.7880, top-5: 0.9936, top-10: 1.0000
+2024-12-26 19:16:21,860 - OCLModel - INFO - Processed 300/831 batches. Running top-1: 0.7853, top-5: 0.9920, top-10: 1.0000
+2024-12-26 19:16:39,408 - OCLModel - INFO - Processed 350/831 batches. Running top-1: 0.7886, top-5: 0.9909, top-10: 1.0000
+2024-12-26 19:16:46,078 - OCLModel - INFO - Processed 400/831 batches. Running top-1: 0.8070, top-5: 0.9920, top-10: 1.0000
+2024-12-26 19:17:03,196 - OCLModel - INFO - Processed 450/831 batches. Running top-1: 0.8058, top-5: 0.9929, top-10: 1.0000
+2024-12-26 19:17:21,304 - OCLModel - INFO - Processed 500/831 batches. Running top-1: 0.8004, top-5: 0.9916, top-10: 1.0000
+2024-12-26 19:17:38,836 - OCLModel - INFO - Processed 550/831 batches. Running top-1: 0.7956, top-5: 0.9902, top-10: 1.0000
+2024-12-26 19:17:54,418 - OCLModel - INFO - Processed 600/831 batches. Running top-1: 0.7920, top-5: 0.9897, top-10: 1.0000
+2024-12-26 19:18:10,014 - OCLModel - INFO - Processed 650/831 batches. Running top-1: 0.7868, top-5: 0.9886, top-10: 1.0000
+2024-12-26 19:18:27,389 - OCLModel - INFO - Processed 700/831 batches. Running top-1: 0.7826, top-5: 0.9883, top-10: 1.0000
+2024-12-26 19:18:44,057 - OCLModel - INFO - Processed 750/831 batches. Running top-1: 0.7819, top-5: 0.9883, top-10: 1.0000
+2024-12-26 19:19:01,491 - OCLModel - INFO - Processed 800/831 batches. Running top-1: 0.7943, top-5: 0.9890, top-10: 1.0000
+2024-12-26 19:19:10,997 - OCLModel - INFO - all_attr_labels: torch.Size([4151, 114]), all_attr_preds: torch.Size([4151, 114])
+2024-12-26 19:19:10,998 - OCLModel - INFO - all_aff_labels: torch.Size([4151, 170]), all_aff_preds: torch.Size([4151, 170])
+2024-12-26 19:19:11,381 - TestProgram - INFO - Test Results:
+2024-12-26 19:19:11,382 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 19:19:11,382 - TestProgram - INFO - Top-1 Accuracy: 0.8017
+2024-12-26 19:19:11,382 - TestProgram - INFO - Top-5 Accuracy: 0.9894
+2024-12-26 19:19:11,382 - TestProgram - INFO - Top-10 Accuracy: 1.0000
+2024-12-26 19:19:11,382 - TestProgram - INFO - Attribute mAP: 0.1565
+2024-12-26 19:19:11,382 - TestProgram - INFO - Affordance mAP: 0.3275
+2024-12-26 19:19:11,382 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 19:19:11,388 - TestProgram - INFO - Final GPU memory: 695.68MB
+2024-12-26 20:14:41,991 - TestProgram - INFO - Starting test program...
+2024-12-26 20:14:41,991 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 20:14:41,991 - TestProgram - INFO - Initializing model...
+2024-12-26 20:14:41,992 - OCLModel - INFO - Initializing CLIP model ViT-B/32 on cuda
+2024-12-26 20:14:46,456 - TestProgram - INFO - Model initialized successfully
+2024-12-26 20:14:46,456 - TestProgram - INFO - Creating data loader...
+2024-12-26 20:14:50,318 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 20:14:51,048 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 20:14:51,059 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 20:14:51,059 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 20:14:51,716 - OCLDataset - INFO - Precomputed feature shapes:
+2024-12-26 20:14:51,717 - OCLDataset - INFO -   Categories: torch.Size([10, 512])
+2024-12-26 20:14:51,717 - OCLDataset - INFO -   Attributes: torch.Size([114, 512])
+2024-12-26 20:14:51,717 - OCLDataset - INFO -   Affordances: torch.Size([170, 512])
+2024-12-26 20:14:51,717 - TestProgram - INFO - Created loader with 346 batches
+2024-12-26 20:14:51,717 - TestProgram - INFO - Starting evaluation...
+2024-12-26 20:15:00,494 - OCLModel - INFO - Processed 50/346 batches. Running top-1: 0.8150, top-5: 0.9917, top-10: 1.0000
+2024-12-26 20:15:08,883 - OCLModel - INFO - Processed 100/346 batches. Running top-1: 0.7850, top-5: 0.9933, top-10: 1.0000
+2024-12-26 20:15:17,547 - OCLModel - INFO - Processed 150/346 batches. Running top-1: 0.7894, top-5: 0.9911, top-10: 1.0000
+2024-12-26 20:15:24,754 - OCLModel - INFO - Processed 200/346 batches. Running top-1: 0.8033, top-5: 0.9917, top-10: 1.0000
+2024-12-26 20:15:33,223 - OCLModel - INFO - Processed 250/346 batches. Running top-1: 0.7923, top-5: 0.9897, top-10: 1.0000
+2024-12-26 20:15:41,797 - OCLModel - INFO - Processed 300/346 batches. Running top-1: 0.7808, top-5: 0.9878, top-10: 1.0000
+2024-12-26 20:15:51,799 - OCLModel - INFO - all_attr_labels: torch.Size([4151, 114]), all_attr_preds: torch.Size([4151, 114])
+2024-12-26 20:15:51,800 - OCLModel - INFO - all_aff_labels: torch.Size([4151, 170]), all_aff_preds: torch.Size([4151, 170])
+2024-12-26 20:15:52,245 - TestProgram - INFO - Test Results:
+2024-12-26 20:15:52,246 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 20:15:52,246 - TestProgram - INFO - Top-1 Accuracy: 0.8020
+2024-12-26 20:15:52,246 - TestProgram - INFO - Top-5 Accuracy: 0.9894
+2024-12-26 20:15:52,246 - TestProgram - INFO - Top-10 Accuracy: 1.0000
+2024-12-26 20:15:52,246 - TestProgram - INFO - Attribute mAP: 0.1726
+2024-12-26 20:15:52,246 - TestProgram - INFO - Affordance mAP: 0.3287
+2024-12-26 20:15:52,246 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 20:15:52,252 - TestProgram - INFO - Final GPU memory: 695.68MB
+2024-12-26 20:20:49,172 - TestProgram - INFO - Starting test program...
+2024-12-26 20:20:49,172 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 20:20:49,172 - TestProgram - INFO - Initializing model...
+2024-12-26 20:20:49,172 - OCLModel - INFO - Initializing CLIP model ViT-B/32 on cuda
+2024-12-26 20:20:52,778 - TestProgram - INFO - Model initialized successfully
+2024-12-26 20:20:52,778 - TestProgram - INFO - Creating data loader...
+2024-12-26 20:20:55,788 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 20:20:56,454 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 20:20:56,465 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 20:20:56,465 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 20:20:56,695 - OCLDataset - INFO - Precomputed feature shapes:
+2024-12-26 20:20:56,695 - OCLDataset - INFO -   Categories: torch.Size([10, 512])
+2024-12-26 20:20:56,695 - OCLDataset - INFO -   Attributes: torch.Size([114, 512])
+2024-12-26 20:20:56,695 - OCLDataset - INFO -   Affordances: torch.Size([170, 512])
+2024-12-26 20:20:56,695 - TestProgram - INFO - Created loader with 346 batches
+2024-12-26 20:20:56,695 - TestProgram - INFO - Starting evaluation...
+2024-12-26 20:21:00,415 - OCLModel - INFO - Processed 50/346 batches. Running top-1: 0.8150, top-5: 0.9917, top-10: 1.0000
+2024-12-26 20:21:03,752 - OCLModel - INFO - Processed 100/346 batches. Running top-1: 0.7850, top-5: 0.9933, top-10: 1.0000
+2024-12-26 20:21:07,048 - OCLModel - INFO - Processed 150/346 batches. Running top-1: 0.7894, top-5: 0.9911, top-10: 1.0000
+2024-12-26 20:21:09,139 - OCLModel - INFO - Processed 200/346 batches. Running top-1: 0.8033, top-5: 0.9917, top-10: 1.0000
+2024-12-26 20:21:12,128 - OCLModel - INFO - Processed 250/346 batches. Running top-1: 0.7923, top-5: 0.9897, top-10: 1.0000
+2024-12-26 20:21:15,572 - OCLModel - INFO - Processed 300/346 batches. Running top-1: 0.7811, top-5: 0.9878, top-10: 1.0000
+2024-12-26 20:21:21,827 - OCLModel - INFO - all_attr_labels: torch.Size([4151, 114]), all_attr_preds: torch.Size([4151, 114])
+2024-12-26 20:21:21,828 - OCLModel - INFO - all_aff_labels: torch.Size([4151, 170]), all_aff_preds: torch.Size([4151, 170])
+2024-12-26 20:21:22,279 - TestProgram - INFO - Test Results:
+2024-12-26 20:21:22,279 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 20:21:22,279 - TestProgram - INFO - Top-1 Accuracy: 0.8022
+2024-12-26 20:21:22,279 - TestProgram - INFO - Top-5 Accuracy: 0.9894
+2024-12-26 20:21:22,279 - TestProgram - INFO - Top-10 Accuracy: 1.0000
+2024-12-26 20:21:22,280 - TestProgram - INFO - Attribute mAP: 0.1726
+2024-12-26 20:21:22,280 - TestProgram - INFO - Affordance mAP: 0.3286
+2024-12-26 20:21:22,280 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 20:21:22,290 - TestProgram - INFO - Final GPU memory: 695.68MB
+2024-12-26 20:21:55,542 - TestProgram - INFO - Starting test program...
+2024-12-26 20:21:55,543 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 20:21:55,543 - TestProgram - INFO - Initializing model...
+2024-12-26 20:21:55,543 - OCLModel - INFO - Initializing CLIP model ViT-B/32 on cuda
+2024-12-26 20:21:59,047 - TestProgram - INFO - Model initialized successfully
+2024-12-26 20:21:59,047 - TestProgram - INFO - Creating data loader...
+2024-12-26 20:22:02,168 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 20:22:02,847 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 20:22:02,856 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 20:22:02,856 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 20:22:03,085 - OCLDataset - INFO - Precomputed feature shapes:
+2024-12-26 20:22:03,085 - OCLDataset - INFO -   Categories: torch.Size([10, 512])
+2024-12-26 20:22:03,085 - OCLDataset - INFO -   Attributes: torch.Size([114, 512])
+2024-12-26 20:22:03,085 - OCLDataset - INFO -   Affordances: torch.Size([170, 512])
+2024-12-26 20:22:03,085 - TestProgram - INFO - Created loader with 346 batches
+2024-12-26 20:22:03,085 - TestProgram - INFO - Starting evaluation...
+2024-12-26 20:22:06,717 - OCLModel - INFO - Processed 50/346 batches. Running top-1: 0.8150, top-5: 0.9917, top-10: 1.0000
+2024-12-26 20:22:09,496 - OCLModel - INFO - Processed 100/346 batches. Running top-1: 0.7850, top-5: 0.9933, top-10: 1.0000
+2024-12-26 20:22:12,233 - OCLModel - INFO - Processed 150/346 batches. Running top-1: 0.7894, top-5: 0.9911, top-10: 1.0000
+2024-12-26 20:22:14,333 - OCLModel - INFO - Processed 200/346 batches. Running top-1: 0.8033, top-5: 0.9917, top-10: 1.0000
+2024-12-26 20:22:17,505 - OCLModel - INFO - Processed 250/346 batches. Running top-1: 0.7923, top-5: 0.9897, top-10: 1.0000
+2024-12-26 20:22:20,670 - OCLModel - INFO - Processed 300/346 batches. Running top-1: 0.7808, top-5: 0.9878, top-10: 1.0000
+2024-12-26 20:22:26,011 - OCLModel - INFO - all_attr_labels: torch.Size([4151, 114]), all_attr_preds: torch.Size([4151, 114])
+2024-12-26 20:22:26,011 - OCLModel - INFO - all_aff_labels: torch.Size([4151, 170]), all_aff_preds: torch.Size([4151, 170])
+2024-12-26 20:22:26,439 - TestProgram - INFO - Test Results:
+2024-12-26 20:22:26,439 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 20:22:26,439 - TestProgram - INFO - Top-1 Accuracy: 0.8020
+2024-12-26 20:22:26,439 - TestProgram - INFO - Top-5 Accuracy: 0.9894
+2024-12-26 20:22:26,439 - TestProgram - INFO - Top-10 Accuracy: 1.0000
+2024-12-26 20:22:26,439 - TestProgram - INFO - Attribute mAP: 0.1726
+2024-12-26 20:22:26,440 - TestProgram - INFO - Affordance mAP: 0.3287
+2024-12-26 20:22:26,440 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 20:22:26,484 - TestProgram - INFO - Final GPU memory: 695.68MB
+2024-12-26 20:27:48,421 - TestProgram - INFO - Starting test program...
+2024-12-26 20:27:48,422 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 20:27:48,422 - TestProgram - INFO - Initializing model...
+2024-12-26 20:27:48,422 - OCLModel - INFO - Initializing CLIP model ViT-B/32 on cuda
+2024-12-26 20:27:52,413 - TestProgram - INFO - Model initialized successfully
+2024-12-26 20:27:52,414 - TestProgram - INFO - Creating data loader...
+2024-12-26 20:27:55,955 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 20:27:56,727 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 20:27:56,739 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 20:27:56,739 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 20:27:57,008 - OCLDataset - INFO - Precomputed feature shapes:
+2024-12-26 20:27:57,008 - OCLDataset - INFO -   Categories: torch.Size([10, 512])
+2024-12-26 20:27:57,008 - OCLDataset - INFO -   Attributes: torch.Size([114, 512])
+2024-12-26 20:27:57,008 - OCLDataset - INFO -   Affordances: torch.Size([170, 512])
+2024-12-26 20:27:57,008 - TestProgram - INFO - Created loader with 346 batches
+2024-12-26 20:27:57,008 - TestProgram - INFO - Starting evaluation...
+2024-12-26 20:28:00,911 - OCLModel - INFO - Processed 50/346 batches. Running top-1: 0.8083, top-5: 0.9883, top-10: 1.0000
+2024-12-26 20:28:04,131 - OCLModel - INFO - Processed 100/346 batches. Running top-1: 0.7825, top-5: 0.9850, top-10: 1.0000
+2024-12-26 20:28:07,587 - OCLModel - INFO - Processed 150/346 batches. Running top-1: 0.7772, top-5: 0.9828, top-10: 1.0000
+2024-12-26 20:28:10,007 - OCLModel - INFO - Processed 200/346 batches. Running top-1: 0.7875, top-5: 0.9842, top-10: 1.0000
+2024-12-26 20:28:13,131 - OCLModel - INFO - Processed 250/346 batches. Running top-1: 0.7760, top-5: 0.9833, top-10: 1.0000
+2024-12-26 20:28:16,626 - OCLModel - INFO - Processed 300/346 batches. Running top-1: 0.7692, top-5: 0.9817, top-10: 1.0000
+2024-12-26 20:28:23,010 - OCLModel - INFO - all_attr_labels: torch.Size([4151, 114]), all_attr_preds: torch.Size([4151, 114])
+2024-12-26 20:28:23,011 - OCLModel - INFO - all_aff_labels: torch.Size([4151, 170]), all_aff_preds: torch.Size([4151, 170])
+2024-12-26 20:28:23,440 - TestProgram - INFO - Test Results:
+2024-12-26 20:28:23,441 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 20:28:23,441 - TestProgram - INFO - Top-1 Accuracy: 0.7914
+2024-12-26 20:28:23,441 - TestProgram - INFO - Top-5 Accuracy: 0.9831
+2024-12-26 20:28:23,441 - TestProgram - INFO - Top-10 Accuracy: 1.0000
+2024-12-26 20:28:23,441 - TestProgram - INFO - Attribute mAP: 0.1632
+2024-12-26 20:28:23,441 - TestProgram - INFO - Affordance mAP: 0.3311
+2024-12-26 20:28:23,441 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 20:28:23,774 - TestProgram - INFO - Final GPU memory: 695.68MB
