@@ -44,23 +44,23 @@ class OCLDataset(Dataset):
         with torch.no_grad():
             # 1. Category text features
             categories = list(self.top_categories.keys())
-            # category_texts = [f"a photo of a {category}" for category in categories]
-            category_texts = [f"{category}" for category in categories]
+            category_texts = [f"a photo of a {category}" for category in categories]
+            # category_texts = [f"{category}" for category in categories]
             category_tokens = clip.tokenize(category_texts).to(self.device)
             category_features = self.model.encode_text(category_tokens)
             self.text_features = category_features / category_features.norm(dim=-1, keepdim=True)
             
             # 2. Attribute text features
-            # attribute_texts = [f"a {attr} object" for attr in self.attrs]
+            attribute_texts = [f"a {attr} object" for attr in self.attrs]
             # attribute_texts = [f"an object that is {attr}" for attr in self.attrs]
-            attribute_texts = [f"{attr}" for attr in self.attrs]
+            # attribute_texts = [f"{attr}" for attr in self.attrs]
             attribute_tokens = clip.tokenize(attribute_texts).to(self.device)
             attribute_features = self.model.encode_text(attribute_tokens)
             self.attr_text_features = attribute_features / attribute_features.norm(dim=-1, keepdim=True)
             
             # 3. Affordance text features
-            # affordance_texts = [f"an object that can {aff}" for aff in self.affs]
-            affordance_texts = [f"{aff}" for aff in self.affs]
+            affordance_texts = [f"an object that can {aff}" for aff in self.affs]
+            # affordance_texts = [f"{aff}" for aff in self.affs]
             affordance_tokens = clip.tokenize(affordance_texts).to(self.device)
             affordance_features = self.model.encode_text(affordance_tokens)
             self.aff_text_features = affordance_features / affordance_features.norm(dim=-1, keepdim=True)

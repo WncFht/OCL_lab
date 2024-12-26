@@ -676,3 +676,69 @@ Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
 2024-12-26 20:28:23,441 - TestProgram - INFO - Affordance mAP: 0.3311
 2024-12-26 20:28:23,441 - TestProgram - INFO - --------------------------------------------------
 2024-12-26 20:28:23,774 - TestProgram - INFO - Final GPU memory: 695.68MB
+2024-12-26 22:37:07,624 - TestProgram - INFO - Starting test program...
+2024-12-26 22:37:07,624 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 22:37:07,624 - TestProgram - INFO - Initializing model...
+2024-12-26 22:37:07,624 - OCLModel - INFO - Initializing CLIP model ViT-B/32 on cuda
+2024-12-26 22:37:10,986 - TestProgram - INFO - Model initialized successfully
+2024-12-26 22:37:10,986 - TestProgram - INFO - Creating data loader...
+2024-12-26 22:37:13,878 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 22:37:14,502 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 22:37:14,512 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 22:37:14,512 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 22:37:14,693 - OCLDataset - INFO - Precomputed feature shapes:
+2024-12-26 22:37:14,693 - OCLDataset - INFO -   Categories: torch.Size([10, 512])
+2024-12-26 22:37:14,693 - OCLDataset - INFO -   Attributes: torch.Size([114, 512])
+2024-12-26 22:37:14,693 - OCLDataset - INFO -   Affordances: torch.Size([170, 512])
+2024-12-26 22:37:14,693 - TestProgram - INFO - Created loader with 346 batches
+2024-12-26 22:37:14,693 - TestProgram - INFO - Starting evaluation...
+2024-12-26 22:37:26,046 - OCLModel - INFO - Processed 50/346 batches. Running top-1: 0.8083, top-5: 0.9883, top-10: 1.0000
+2024-12-26 22:37:37,160 - OCLModel - INFO - Processed 100/346 batches. Running top-1: 0.7825, top-5: 0.9850, top-10: 1.0000
+2024-12-26 22:37:47,760 - OCLModel - INFO - Processed 150/346 batches. Running top-1: 0.7772, top-5: 0.9828, top-10: 1.0000
+2024-12-26 22:37:56,786 - OCLModel - INFO - Processed 200/346 batches. Running top-1: 0.7875, top-5: 0.9842, top-10: 1.0000
+2024-12-26 22:38:09,559 - OCLModel - INFO - Processed 250/346 batches. Running top-1: 0.7760, top-5: 0.9833, top-10: 1.0000
+2024-12-26 22:38:20,190 - OCLModel - INFO - Processed 300/346 batches. Running top-1: 0.7692, top-5: 0.9817, top-10: 1.0000
+2024-12-26 22:38:28,339 - OCLModel - INFO - all_attr_labels: torch.Size([4151, 114]), all_attr_preds: torch.Size([4151, 114])
+2024-12-26 22:38:28,340 - OCLModel - INFO - all_aff_labels: torch.Size([4151, 170]), all_aff_preds: torch.Size([4151, 170])
+2024-12-26 22:38:28,767 - TestProgram - INFO - Test Results:
+2024-12-26 22:38:28,767 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 22:38:28,767 - TestProgram - INFO - Top-1 Accuracy: 0.7914
+2024-12-26 22:38:28,767 - TestProgram - INFO - Top-5 Accuracy: 0.9831
+2024-12-26 22:38:28,767 - TestProgram - INFO - Top-10 Accuracy: 1.0000
+2024-12-26 22:38:28,767 - TestProgram - INFO - Attribute mAP: 0.1632
+2024-12-26 22:38:28,767 - TestProgram - INFO - Affordance mAP: 0.3311
+2024-12-26 22:38:28,767 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 22:38:28,777 - TestProgram - INFO - Final GPU memory: 695.68MB
+2024-12-26 22:39:49,863 - TestProgram - INFO - Starting test program...
+2024-12-26 22:39:49,863 - TestProgram - INFO - Initial GPU memory: 0.00MB
+2024-12-26 22:39:49,863 - TestProgram - INFO - Initializing model...
+2024-12-26 22:39:49,863 - OCLModel - INFO - Initializing CLIP model ViT-B/32 on cuda
+2024-12-26 22:39:52,779 - TestProgram - INFO - Model initialized successfully
+2024-12-26 22:39:52,779 - TestProgram - INFO - Creating data loader...
+2024-12-26 22:39:55,468 - OCLDataset - INFO - Loading annotations from /data/DATA/OCL_DATA/OCL_data/data/resources/OCL_annot_test.pkl
+2024-12-26 22:39:56,172 - OCLDataset - INFO - Selected top 10 categories
+2024-12-26 22:39:56,182 - OCLDataset - INFO - Filtered dataset contains 4151 images
+2024-12-26 22:39:56,182 - OCLDataset - INFO - Precomputing text embeddings...
+2024-12-26 22:39:56,386 - OCLDataset - INFO - Precomputed feature shapes:
+2024-12-26 22:39:56,386 - OCLDataset - INFO -   Categories: torch.Size([10, 512])
+2024-12-26 22:39:56,386 - OCLDataset - INFO -   Attributes: torch.Size([114, 512])
+2024-12-26 22:39:56,386 - OCLDataset - INFO -   Affordances: torch.Size([170, 512])
+2024-12-26 22:39:56,386 - TestProgram - INFO - Created loader with 346 batches
+2024-12-26 22:39:56,386 - TestProgram - INFO - Starting evaluation...
+2024-12-26 22:39:59,986 - OCLModel - INFO - Processed 50/346 batches. Running top-1: 0.8150, top-5: 0.9917, top-10: 1.0000
+2024-12-26 22:40:03,134 - OCLModel - INFO - Processed 100/346 batches. Running top-1: 0.7850, top-5: 0.9933, top-10: 1.0000
+2024-12-26 22:40:05,884 - OCLModel - INFO - Processed 150/346 batches. Running top-1: 0.7894, top-5: 0.9911, top-10: 1.0000
+2024-12-26 22:40:07,873 - OCLModel - INFO - Processed 200/346 batches. Running top-1: 0.8033, top-5: 0.9917, top-10: 1.0000
+2024-12-26 22:40:10,653 - OCLModel - INFO - Processed 250/346 batches. Running top-1: 0.7923, top-5: 0.9897, top-10: 1.0000
+2024-12-26 22:40:13,447 - OCLModel - INFO - Processed 300/346 batches. Running top-1: 0.7808, top-5: 0.9878, top-10: 1.0000
+2024-12-26 22:40:18,611 - OCLModel - INFO - all_attr_labels: torch.Size([4151, 114]), all_attr_preds: torch.Size([4151, 114])
+2024-12-26 22:40:18,611 - OCLModel - INFO - all_aff_labels: torch.Size([4151, 170]), all_aff_preds: torch.Size([4151, 170])
+2024-12-26 22:40:19,043 - TestProgram - INFO - Test Results:
+2024-12-26 22:40:19,044 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 22:40:19,044 - TestProgram - INFO - Top-1 Accuracy: 0.8020
+2024-12-26 22:40:19,044 - TestProgram - INFO - Top-5 Accuracy: 0.9894
+2024-12-26 22:40:19,044 - TestProgram - INFO - Top-10 Accuracy: 1.0000
+2024-12-26 22:40:19,044 - TestProgram - INFO - Attribute mAP: 0.1577
+2024-12-26 22:40:19,044 - TestProgram - INFO - Affordance mAP: 0.3287
+2024-12-26 22:40:19,044 - TestProgram - INFO - --------------------------------------------------
+2024-12-26 22:40:19,177 - TestProgram - INFO - Final GPU memory: 695.68MB
